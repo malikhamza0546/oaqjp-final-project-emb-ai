@@ -1,1 +1,1 @@
-# Final project
+🧠 AI-Powered Emotion Detection | A web-based application built with 🐍 Python, ⚡ Flask, 🌐 HTML, 🎨 CSS, and JavaScript, integrated with 🤖 IBM Watson NLP API. Features REST API integration, JSON processing, 😊 emotion analysis, 🎯 dominant emotion detection, and 🧪 unit testing.
